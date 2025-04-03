@@ -1,9 +1,5 @@
 # Weather-forecast
 
-Here's a brief description of your Python code and what it's doing:
-
----
-
 ### 🌦️ **Weather Info Fetcher Using OpenWeatherMap API**
 
 This Python script is a **command-line weather app** that fetches and displays current weather details for any city entered by the user. It uses the **OpenWeatherMap API** and performs the following actions:
