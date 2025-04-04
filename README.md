@@ -33,7 +33,7 @@ This Python script is a **command-line weather app** that fetches and displays c
 
 ---
 
-### 📋 **Sample Output (Based on the Image)**
+### 📋 **Sample Output**
 
 ```plaintext
 Enter the location to check the weather: Ontario
