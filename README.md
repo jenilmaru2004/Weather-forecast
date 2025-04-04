@@ -48,6 +48,18 @@ Sun sets in Ontario at 2025-04-03 19:12:33 local time.
 
 ---
 
+# Dockerized Weather App 🌦️
+
+This is a simple command-line weather app that fetches weather data from the OpenWeatherMap API and runs inside a Docker container.
+
+## 🚀 How to Run
+
+```bash
+docker build -t weather-app .
+docker run -it weather-app
+
+---
+
 ### ✅ Summary
 
 This is a great beginner-friendly script to:
@@ -55,4 +67,5 @@ This is a great beginner-friendly script to:
 - Handle **JSON data**
 - Use **datetime conversions**
 - Apply **unit conversions**
+- Dockerized app and is avaliable live on Github. 
 
